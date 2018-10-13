@@ -73,6 +73,16 @@ class createData    extends Component {
                 <div className="col-sm-6 col-xs-12 p-t-10">
                     <TextField
                         id="name"
+                        name="sku"
+                        label="SKU"
+                        value={basic.sku}
+                        onChange={this.handleChange}
+                        margin="normal"
+                        fullWidth/>
+                </div>     
+                <div className="col-sm-6 col-xs-12 p-t-10">
+                    <TextField
+                        id="name"
                         name="productName"
                         label="Product Name"
                         value={basic.productName}

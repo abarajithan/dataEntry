@@ -5,17 +5,17 @@ const initialData = {
         isRejected: false,
         basic:{
             sku:"TRVAL28726",
-            productName: "George Girls' Short-Sleeve Polo",
+            productName: "George Mens Shorts ",
             productIdType: "GTIN",
             productId:"X13422345",
             productIdentifiers:"1212493883133",
             shortDescription:"Clothing",
-            keyFeatures:"Wicks away moisture; Looks fabulous with wedge heels; Won't shrink in wash",
+            keyFeatures:"Won't shrink in wash. Stylish.",
             unitsPerConsumerUnit:"1",
-            brand:"Levis",
-            manufacturer:"Levis",
-            manufacturerPartNumber:"5061025",
-            modelNumber:"MFP00112BBQN"
+            brand:"Wrangler",
+            manufacturer:"Wrangler India Ltd",
+            manufacturerPartNumber:"506102567",
+            modelNumber:"MFADP002BBQN"
         }
     },
     {
@@ -31,7 +31,7 @@ const initialData = {
             keyFeatures:"Wicks away moisture; Looks fabulous with wedge heels; Won't shrink in wash",
             unitsPerConsumerUnit:"1",
             brand:"Levis",
-            manufacturer:"Levis",
+            manufacturer:"Levis Pvt Ltd.",
             manufacturerPartNumber:"5061025",
             modelNumber:"MFP00112BBQN"
         }
