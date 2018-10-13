@@ -70,7 +70,7 @@ class ViewData extends Component {
                     <div className="col-sm-6 col-xs-12 p-t-15">
                         <CellComponent
                             label={"Product ID"}
-                            value={basic.productIdType}
+                            value={basic.productId}
                             />
                     </div>
                     <div className="col-sm-6 col-xs-12 p-t-15">
