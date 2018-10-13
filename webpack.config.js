@@ -9,6 +9,11 @@ const config = {
         inline: true, 
         port: 8080 
     },
+    node: {fs: 'empty'},
+    externals: [
+    {'./cptable': 'var cptable'},
+    {'./jszip': 'jszip'}
+    ],
     module: {
         rules: [{
             enforce: 'pre',
